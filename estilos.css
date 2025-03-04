@@ -1,0 +1,13 @@
+body {
+    background-color: darkseagreen;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color:darkseagreen;
+}
+p {
+    font-size: 18px;
+    color:darkblue;
+} 
